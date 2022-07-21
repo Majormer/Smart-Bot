@@ -18,6 +18,7 @@ Smart! features:
 *!autoconnect - Autoconnect splitters and mergers to one or more buildings with belts
 *!spacing - Space out multiple objects on the X, Y or Z axes!
 *!liftheightcounter - Determine height of a lift from the starting point or from the world's base level
+*!restore - Copy favorite configuration of number of objects and their spacing for use later
 
 Limitations:
 !multiplayer - Issues related to multiplayer sessions with local or dedicated servers
