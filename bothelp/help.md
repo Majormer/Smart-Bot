@@ -9,7 +9,7 @@ Support:
 *!bugreport - Details on how to report a bug
 
 Installation:
-*!smm- Install the latest release from Satisfactory Mod Manager
+*!smm - Install the latest release from Satisfactory Mod Manager
 *!prerelease - Install a pre-release version occasionally offered in Discord by the developer
 
 Smart! features:
